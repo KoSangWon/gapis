@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "520348663669",
+    "firebase_url": "https://gapis-c87d4.firebaseio.com",
+    "project_id": "gapis-c87d4",
+    "storage_bucket": "gapis-c87d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520348663669:android:5cb780c7d2f80191281d3c",
+        "android_client_info": {
+          "package_name": "com.example.gapis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520348663669-nb4cqgs49roaurljq0b5ljqep2sr9drb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiiPeMgfaOCh8xzn3y21pIEx9uIWNW2rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520348663669-nb4cqgs49roaurljq0b5ljqep2sr9drb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520348663669:android:de3a708e5eaa2c7b281d3c",
+        "android_client_info": {
+          "package_name": "com.example.mygapis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520348663669-nb4cqgs49roaurljq0b5ljqep2sr9drb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiiPeMgfaOCh8xzn3y21pIEx9uIWNW2rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520348663669-nb4cqgs49roaurljq0b5ljqep2sr9drb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

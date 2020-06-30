@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="iconTextColor">#FFEEEE</color>
+    <color name="iconBackColor">#64AEB6</color>
+    <color name="mainBackColor">#87cdd5</color>
+    <color name="doneButton">#0e9aab</color>
+    <color name="button">#c7e0f4</color>
+    <color name="transparent">#4d000000</color>
+</resources>

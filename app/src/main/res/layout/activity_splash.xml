@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBackColor"
+    android:foregroundTint="@color/iconTextColor"
+    android:orientation="vertical"
+    tools:context=".activity.SplashActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/jalnan"
+        android:gravity="center|top"
+        android:text="@string/splashText"
+        android:textColor="@color/iconBackColor"
+        android:textSize="40sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="80sp"
+        android:fontFamily="@font/mapoddp"
+        android:textColor="@color/iconTextColor"
+        android:text="@string/app_name"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/jalnan"
+        android:gravity="center|bottom"
+        android:text=">>>환영합니다.\n\n"
+        android:textColor="@color/iconBackColor"
+        android:textSize="40sp" />
+
+</LinearLayout>
